@@ -31,8 +31,3 @@ body{
 ::-webkit-scrollbar-thumb{
     background: #F44335; /* Red color for the scrollbar thumb */
 }
-
-.copyright{
-    font-size: 14px;
-    color: #20484F;
-}
